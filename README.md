@@ -18,7 +18,7 @@ git clone https://github.com/shrushtijadhavv/Amazon-clone-using-html-and-css.git
 2️⃣ **Open `index.html` in a Browser**  
 
 ## **🌐 Live Demo**  
-🔗 [View Live Project](https://your-shrushtijadhavv.github.io/Amazon-clone-using-html-and-css/)
+🔗 [View Live Project](https://shrushtijadhavv.github.io/Amazon-clone-using-html-and-css/)
 
 ## **📜 License**  
 This project is for educational purposes only. Not for commercial use.  
